@@ -79,7 +79,7 @@ namespace Pianino
                         break;
                 }
             }
-        }
+        }//dfdfdf
         static void Main()
         {
             Console.WriteLine("Для переключения актав дважды нажмите кнопку \n" +
